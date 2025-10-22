@@ -10,13 +10,13 @@ export const Nav = () => {
             <Link to={"/"}>HOME</Link>
         </li>
         <li>
-            <Link to={"/"}>PRODUCTS</Link>
+            <Link to={"/products"}>PRODUCTS</Link>
         </li>
         <li>
-            <Link to={"/"}>ABOUT US</Link>
+            <Link to={"/about_us"}>ABOUT US</Link>
         </li>
         <li>
-            <Link to={"/"}>CONTACT</Link>
+            <Link to={"/contact"}>CONTACT</Link>
         </li>   
       </ul>
     </nav>
