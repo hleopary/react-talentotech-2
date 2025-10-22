@@ -22,7 +22,7 @@ export const ItemDetailContainer = () => {
                 setDetail(found);
             }
         })
-        .catch(() => {})
+        .catch((error) => {console.log(error);});
     }, [id]);
     return <main>
         {Object.keys(detail).length ? (

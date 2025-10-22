@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "Mountain Bike Pro",
+    "price": 650000,
+    "category": "mtb",
+    "description": "Bicicleta de montaña de alta gama con suspensión delantera y trasera, cuadro de carbono y 12 velocidades.",
+    "imageUrl": "/images/budin-limon.jpg"
+  }
+]

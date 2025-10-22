@@ -5,6 +5,94 @@
     "price": 650000,
     "category": "mtb",
     "description": "Bicicleta de montaña de alta gama con suspensión delantera y trasera, cuadro de carbono y 12 velocidades.",
-    "imageUrl": "/images/budin-limon.jpg"
+    "imageUrl": "/images/mtb-pro.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Mountain Bike Inicial",
+    "price": 280000,
+    "category": "mtb",
+    "description": "Ideal para principiantes, con cuadro de aluminio, frenos de disco mecánicos y 21 velocidades.",
+    "imageUrl": "/images/mtb-inicial.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Mountain Bike Eléctrica",
+    "price": 1200000,
+    "category": "mtb",
+    "description": "Asistencia eléctrica para ascensos, batería de larga duración y componentes de trail robustos.",
+    "imageUrl": "/images/mtb-electrica.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mountain Bike Trail",
+    "price": 850000,
+    "category": "mtb",
+    "description": "Geometría agresiva para senderos técnicos, 11 velocidades y tija telescópica.",
+    "imageUrl": "/images/mtb-trail.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Gravel Aventura",
+    "price": 550000,
+    "category": "Gravel",
+    "description": "Bicicleta versátil para asfalto y caminos de tierra, cuadro de aluminio y grupo Shimano GRX.",
+    "imageUrl": "/images/gravel-aventura.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Gravel Competición",
+    "price": 980000,
+    "category": "Gravel",
+    "description": "Cuadro de carbono ligero, ideal para carreras de larga distancia en todo tipo de superficies.",
+    "imageUrl": "/images/gravel-competicion.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Gravel Urbana",
+    "price": 380000,
+    "category": "Gravel",
+    "description": "Neumáticos mixtos y soportes para portaequipajes, perfecta para el día a día y escapadas.",
+    "imageUrl": "/images/gravel-urbana.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Cubierta Plegable MTB 29\"",
+    "price": 45000,
+    "category": "Repuestos",
+    "description": "Cubierta tubeless-ready para mountain bike, excelente agarre en terrenos difíciles.",
+    "imageUrl": "/images/cubierta-mtb.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Cassette 12v 10-50T",
+    "price": 85000,
+    "category": "Repuestos",
+    "description": "Cassette de amplio rango para transmisión de 12 velocidades, ideal para subidas extremas.",
+    "imageUrl": "/images/cassette-12v.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Pastillas Freno Disco Orgánicas",
+    "price": 12000,
+    "category": "Repuestos",
+    "description": "Juego de pastillas orgánicas para frenos de disco hidráulicos, mayor potencia de frenado inicial.",
+    "imageUrl": "/images/pastillas-freno.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Cadena 11 Velocidades",
+    "price": 30000,
+    "category": "Repuestos",
+    "description": "Cadena de alta durabilidad con tratamiento anticorrosión para 11 velocidades.",
+    "imageUrl": "/images/cadena-11v.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Manillar Gravel Ergonómico",
+    "price": 42000,
+    "category": "Repuestos",
+    "description": "Manillar con flare (apertura) para mayor control y comodidad en rutas de gravel.",
+    "imageUrl": "/images/manillar-gravel.jpg"
   }
 ]

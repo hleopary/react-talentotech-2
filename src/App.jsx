@@ -10,8 +10,17 @@ function App() {
 
   return (
     <>
-      
       <BrowserRouter>
+      
+      <CartProvider>
+        <Routes>
+          <Route path='/' element={ <ItemListContainer /> } />
+          
+        </Routes>    
+        </CartProvider>  
+        </BrowserRouter>
+
+      {/*<BrowserRouter>
         
       <CartProvider>  
         <Nav />
@@ -22,7 +31,7 @@ function App() {
         </Routes>
         </CartProvider>
       </BrowserRouter>
-      
+      */}
       
       
     
